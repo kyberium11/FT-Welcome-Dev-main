@@ -1,0 +1,28 @@
+{
+    "title": "FT-Welcome Dev",
+    "data": [
+        {
+            "Name": "Jerome Altarejos",
+            "Position": "Superstar Developer",
+            "Email": "brojeromealtarejos@gmail.com",
+            "Bio": "Hi! My name is Jerome Altarejos. I am a Web Developer. My passion is coding and i love to do websites.",
+            "Age": 28,
+            "Gender": "Male",
+            "Phone": "09567387836",
+            "CurrentAddress": "Laguna, Philippines",
+            "PermanentAddress": "Binan, Laguna, Philippines",
+            "Birthday": "Feb 11, 1994",
+            "Image": "img/profpic.jpg",
+            "Hobbies": ["Table Tennis", "Badminton", "Basketball"],
+            "Experience": [
+                {"Position": "Wordpress Developer", "Company": "Convrtx", "Date": "December 2021 - May 2022"},
+                {"Position": "Backend Developer", "Company": "OOM Philippines", "Date": "Jan 2020 - December 2020"},
+                {"Position": "Freelancer", "Company": "Upwork/Online", "Date": "May 2018 - Dec 2019"}
+            ],
+            "Education": [
+                {"School": "Binan National High School", "Date":"2006-2010"},
+                {"School": "Carmona State University - BS Education", "Date":"2016-2020"}
+            ]
+        }
+    ]
+}

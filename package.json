@@ -1,0 +1,16 @@
+{
+  "name": "ft-welcome-dev-main",
+  "version": "1.0.0",
+  "description": "This is a basic greeting challenge for Fruitask Developer. The challenge is chunk of fritter.. no sweat! Just to understand the Fruitask environment and used programming language, we prefer to test your superstar's capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/main.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
